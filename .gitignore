@@ -2,3 +2,5 @@
 client_secret\.json
 
 creds\.data
+
+*.pyc
